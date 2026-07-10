@@ -1,10 +1,3 @@
-
-1000059236.png
-1000059235.png
-Write a read me for repo
-
-Here’s a clean README for your api-testing-validation-using-jest-express-validator repository. Copy and paste it into your README.md file:
-
 # API Testing & Validation Using Jest and Express Validator
 
 A practice project created to learn how to validate API requests and test backend APIs using Jest and Express Validator.
